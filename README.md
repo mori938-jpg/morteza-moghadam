@@ -1,5 +1,4 @@
 # morteza-moghadam
-#برنامه نویسی پیشرفته: 
 تمرین شماره یک برسی یک سال کبیسه است یا خیر؟#
 def is_leap_year(year):
     """determines if a year is a leap year using logical operators ."""
