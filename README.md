@@ -1,5 +1,5 @@
 # morteza-moghadam
-برنامه نویسی پیشرفته: تمرین شماره یک برسی یک سال کبیسه است یا خیر؟
+برنامه نویسی پیشرفته: تمرین شماره یک برسی یک سال کبیسه است یا خیر؟#
 def is_leap_year(year):
     """determines if a year is a leap year using logical operators ."""
     return(year % 4 == 0 and year % 100 != 0) or (year % 400 == 0)
